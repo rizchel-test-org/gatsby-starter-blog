@@ -16,7 +16,6 @@ function SEO({ description, lang, meta, title }) {
       query {
         site {
           siteMetadata {
-            test
             title
             description
             author
